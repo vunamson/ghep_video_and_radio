@@ -14,11 +14,11 @@ from moviepy.editor import (
 # ==========================================================
 #                    ⚙️ CẤU HÌNH THƯ MỤC
 # ==========================================================
-AUDIO_DIR = r"C:\Youtobe\audio youtobe\Ngày 15-11-2025"
+AUDIO_DIR = r"C:\Youtobe\audio youtobe\Ngày 18-11-2025 video 2"
 VIDEO_OPENING = r"C:\Youtobe\video youtobe\Video mở đầu"
-VIDEO_MAIN = r"C:\Youtobe\video youtobe\Video tổng hợp"
+VIDEO_MAIN = r"C:\Youtobe\video youtobe\Video động vật"
 VIDEO_ENDING = r"C:\Youtobe\video youtobe\Video kết thúc"
-OUTPUT_DIR = r"C:\Youtobe\output video youtobe\Ngày 15-11-2025"
+OUTPUT_DIR = r"C:\Youtobe\output video youtobe\Ngày 18-11-2025 video 2"
 ORIG_AUDIO_DIRNAME = "_original_audio"
 
 # ==========================================================
